@@ -20,7 +20,7 @@ function sum(){
     return total;
 }
 console.log(sum(10, 20, 30, 40, 50));
-*/ 
+
 //Exercise 4 — Rest parameter:
 
 function sum(...numbers){
@@ -43,3 +43,4 @@ const multiply = function(multiplier, ...numbers){
     return arr;
 }
 console.log(multiply(2, 5, 10, 15));
+*/

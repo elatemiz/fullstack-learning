@@ -72,7 +72,7 @@ console.log(numbers instanceof Array); //true
 console.log(text instanceof Object); //false
 console.log(user instanceof Array); //false
 console.log(numbers instanceof Object); //true -> arrays are also a type of object
-*/
+
 //Exercise 6:
 
 function getInfo(){
@@ -97,3 +97,4 @@ console.log(student2.getInfo());
 console.log("age" in student1); //true
 console.log(student2 instanceof Object); //true
 console.log(student1 instanceof Array); //false
+*/
